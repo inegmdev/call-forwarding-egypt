@@ -30,7 +30,8 @@
 
 ### Price
 
-Free
+Free*
+[*] You're charged as you are calling the phone.
 
 ### Notes
 
